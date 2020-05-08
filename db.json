@@ -1,0 +1,77 @@
+{
+  "1": [
+    {
+      "tanggal": "2020-02-02",
+      "idInvoice": "1",
+      "nominal": "15000000",
+      "dueDate": "2020-03-02",
+      "status": "Paid"
+    },
+    {
+      "tanggal": "2020-02-03",
+      "idInvoice": "2",
+      "nominal": "25000000",
+      "dueDate": "2020-03-03",
+      "status": "Paid"
+    },
+    {
+      "tanggal": "2020-02-03",
+      "idInvoice": "3",
+      "nominal": "35000000",
+      "dueDate": "2020-03-03",
+      "status": "Overdue"
+    },
+    {
+      "tanggal": "2020-02-02",
+      "idInvoice": "4",
+      "nominal": "45000000",
+      "dueDate": "2020-03-03",
+      "status": "Paid"
+    },
+    {
+      "tanggal": "2020-02-03",
+      "idInvoice": "5",
+      "nominal": "35000000",
+      "dueDate": "2020-03-03",
+      "status": "Overdue"
+    }
+  ],
+  "2": [
+    {
+      "tanggal": "2020-02-02",
+      "idInvoice": "6",
+      "nominal": "15000000",
+      "dueDate": "2020-03-02",
+      "status": "Paid"
+    },
+    {
+      "tanggal": "2020-02-03",
+      "idInvoice": "7",
+      "nominal": "25000000",
+      "dueDate": "2020-03-03",
+      "status": "Paid"
+    },
+    {
+      "tanggal": "2020-02-03",
+      "idInvoice": "8",
+      "nominal": "35000000",
+      "dueDate": "2020-03-03",
+      "status": "Overdue"
+    },
+    {
+      "tanggal": "2020-02-02",
+      "idInvoice": "9",
+      "nominal": "45000000",
+      "dueDate": "2020-03-03",
+      "status": "Paid"
+    },
+    {
+      "tanggal": "2020-02-03",
+      "idInvoice": "10",
+      "nominal": "35000000",
+      "dueDate": "2020-03-03",
+      "status": "Overdue"
+    }
+  ]
+}
+
