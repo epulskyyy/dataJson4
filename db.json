@@ -11,35 +11,40 @@
           "nominal": "100",
           "no_invoice": "belum ada",
           "due_date": "25 mei 2020",
-          "tanggal": "2020-05-18T05:10:10Z"
+          "tanggal": "2020-05-18T05:10:10Z",
+          "status": "Paid"
         },
         {
           "id": 2,
           "nominal": "100",
           "no_invoice": "belum ada",
           "due_date": "25 mei 2020",
-          "tanggal": "2020-05-18T04:10:10Z"
+          "tanggal": "2020-05-18T04:10:10Z",
+          "status": "Paid"
         },
         {
           "id": 3,
           "nominal": "1020",
           "no_invoice": "belum ada",
           "due_date": "25 mei 2020",
-          "tanggal": "2020-05-18T04:10:10Z"
+          "tanggal": "2020-05-18T04:10:10Z",
+          "status": "Overdue"
         },
         {
           "id": 4,
           "nominal": "1050",
           "no_invoice": "belum ada",
           "due_date": "25 mei 2020",
-          "tanggal": "2020-05-18T05:10:10Z"
+          "tanggal": "2020-05-18T05:10:10Z",
+          "status": "Paid"
         },
         {
           "id": 5,
           "nominal": "1550",
           "no_invoice": "belum ada",
           "due_date": "25 mei 2020",
-          "tanggal": "2020-05-18T03:10:10Z"
+          "tanggal": "2020-05-18T03:10:10Z",
+          "status": "Overdue
         }
       ]
   },
@@ -55,35 +60,40 @@
           "nominal": "1600",
           "no_invoice": "belum ada",
           "due_date": "25 mei 2020",
-          "tanggal": "2020-05-18T05:10:10Z"
+          "tanggal": "2020-05-18T05:10:10Z",
+          "status": "Overdue
         },
         {
           "id": 7,
           "nominal": "1200",
           "no_invoice": "belum ada",
           "due_date": "25 mei 2020",
-          "tanggal": "2020-05-18T04:10:10Z"
+          "tanggal": "2020-05-18T04:10:10Z",
+          "status": "Paid"
         },
         {
           "id": 8,
           "nominal": "1090",
           "no_invoice": "belum ada",
           "due_date": "25 mei 2020",
-          "tanggal": "2020-05-18T03:10:10Z"
+          "tanggal": "2020-05-18T03:10:10Z",
+          "status": "Overdue
         },
         {
           "id": 9,
           "nominal": "1020",
           "no_invoice": "belum ada",
           "due_date": "25 mei 2020",
-          "tanggal": "2020-05-18T04:10:10Z"
+          "tanggal": "2020-05-18T04:10:10Z",
+          "status": "Paid"
         },
         {
           "id": 10,
           "nominal": "1050",
           "no_invoice": "belum ada",
           "due_date": "25 mei 2020",
-          "tanggal": "2020-05-18T05:10:10Z"
+          "tanggal": "2020-05-18T05:10:10Z",
+          "status": "Overdue
         }
      ]
   }
