@@ -1,30 +1,90 @@
 {
-  "1": [
-    {
-      "tanggal": "2020-02-02",
-      "endpoint": "ridho.com",
-      "jumlahHit": "2",
-      "status": "Success"
-    },
-    {
-      "tanggal": "2020-02-03",
-      "endpoint": "gatra.com",
-      "jumlahHit": "4",
-      "status": "Failed"
-    }
-  ],
-  "2": [
-    {
-      "tanggal": "2020-02-04",
-      "endpoint": "ridho.com",
-      "jumlahHit": "6",
-      "status": "Failed"
-    },
-    {
-      "tanggal": "2020-02-05",
-      "endpoint": "gatra.com",
-      "jumlahHit": "4",
-      "status": "Success"
-    }
-  ]
+  "1": {
+    "data_per_page": 5,
+    "total_page": 2,
+    "first_page": 1,
+    "end_page": 2,
+    "total_data":10,
+    "data": [
+        {
+          "id": 1,
+          "nominal": "100",
+          "no_invoice": "belum ada",
+          "due_date": "25 mei 2020",
+          "tanggal": "2020-05-18T05:10:10Z"
+        },
+        {
+          "id": 2,
+          "nominal": "100",
+          "no_invoice": "belum ada",
+          "due_date": "25 mei 2020",
+          "tanggal": "2020-05-18T04:10:10Z"
+        },
+        {
+          "id": 3,
+          "nominal": "1020",
+          "no_invoice": "belum ada",
+          "due_date": "25 mei 2020",
+          "tanggal": "2020-05-18T04:10:10Z"
+        },
+        {
+          "id": 4,
+          "nominal": "1050",
+          "no_invoice": "belum ada",
+          "due_date": "25 mei 2020",
+          "tanggal": "2020-05-18T05:10:10Z"
+        },
+        {
+          "id": 5,
+          "nominal": "1550",
+          "no_invoice": "belum ada",
+          "due_date": "25 mei 2020",
+          "tanggal": "2020-05-18T03:10:10Z"
+        }
+      ]
+  },
+  "2": {
+    "data_per_page": 5,
+    "total_page": 2,
+    "first_page": 1,
+    "end_page": 2,
+    "total_data":10,
+    "data": [
+        {
+          "id": 6,
+          "nominal": "1600",
+          "no_invoice": "belum ada",
+          "due_date": "25 mei 2020",
+          "tanggal": "2020-05-18T05:10:10Z"
+        },
+        {
+          "id": 7,
+          "nominal": "1200",
+          "no_invoice": "belum ada",
+          "due_date": "25 mei 2020",
+          "tanggal": "2020-05-18T04:10:10Z"
+        },
+        {
+          "id": 8,
+          "nominal": "1090",
+          "no_invoice": "belum ada",
+          "due_date": "25 mei 2020",
+          "tanggal": "2020-05-18T03:10:10Z"
+        },
+        {
+          "id": 9,
+          "nominal": "1020",
+          "no_invoice": "belum ada",
+          "due_date": "25 mei 2020",
+          "tanggal": "2020-05-18T04:10:10Z"
+        },
+        {
+          "id": 10,
+          "nominal": "1050",
+          "no_invoice": "belum ada",
+          "due_date": "25 mei 2020",
+          "tanggal": "2020-05-18T05:10:10Z"
+        }
+     ]
+  },
 }
