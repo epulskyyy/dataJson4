@@ -48,6 +48,55 @@
       "nominal": "7000000",
       "due_date": "21-06-2020",
       "status": "PAID"
+    },
+     {
+      "tanggal": "20-02-2020",
+      "id_invoice": "BRIAPIPRC/KP0001/02-2020",
+      "nominal": "5000000",
+      "due_date": "20-02-2020",
+      "status": "PAID"
+    },
+    {
+      "tanggal": "20-02-2020",
+      "id_invoice": "BRIAPIPRC/KP0001/03-2020",
+      "nominal": "5000000",
+      "due_date": "20-02-2020",
+      "status": "PAID"
+    },
+    {
+      "tanggal": "20-03-2020",
+      "id_invoice": "BRIAPIPRC/KP0001/03-2020",
+      "nominal": "1000000",
+      "due_date": "21-03-2020",
+      "status": "overdue"
+    },
+    {
+      "tanggal": "21-04-2020",
+      "id_invoice": "BRIAPIPRC/KP0001/03-2020",
+      "nominal": "2000000",
+      "due_date": "22-04-2020",
+      "status": "PAID"
+    },
+    {
+      "tanggal": "22-05-2020",
+      "id_invoice": "BRIAPIPRC/KP0001/03-2020",
+      "nominal": "3000000",
+      "due_date": "24-05-2020",
+      "status": "overdue"
+    },
+    {
+      "tanggal": "20-06-2020",
+      "id_invoice": "BRIAPIPRC/KP0001/03-2020",
+      "nominal": "5000000",
+      "due_date": "21-06-2020",
+      "status": "PAID"
+    },
+    {
+      "tanggal": "24-06-2020",
+      "id_invoice": "BRIAPIPRC/KP0001/03-2020",
+      "nominal": "7000000",
+      "due_date": "21-06-2020",
+      "status": "PAID"
     }
   ]
 }
