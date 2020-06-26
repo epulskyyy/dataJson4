@@ -1,100 +1,54 @@
 {
-  "1": {
-    "data_per_page": 5,
-    "total_page": 2,
-    "first_page": 1,
-    "end_page": 2,
-    "total_data": 10,
-    "data": [
-      {
-        "id": 1,
-        "nominal": "100",
-        "no_invoice": "belum ada",
-        "due_date": "25 mei 2020",
-        "tanggal": "2020-05-18T05:10:10Z",
-        "status": "Paid"
-      },
-      {
-        "id": 2,
-        "nominal": "100",
-        "no_invoice": "belum ada",
-        "due_date": "25 mei 2020",
-        "tanggal": "2020-05-18T04:10:10Z",
-        "status": "Paid"
-      },
-      {
-        "id": 3,
-        "nominal": "1020",
-        "no_invoice": "belum ada",
-        "due_date": "25 mei 2020",
-        "tanggal": "2020-05-18T04:10:10Z",
-        "status": "Overdue"
-      },
-      {
-        "id": 4,
-        "nominal": "1050",
-        "no_invoice": "belum ada",
-        "due_date": "25 mei 2020",
-        "tanggal": "2020-05-18T05:10:10Z",
-        "status": "Paid"
-      },
-      {
-        "id": 5,
-        "nominal": "1550",
-        "no_invoice": "belum ada",
-        "due_date": "25 mei 2020",
-        "tanggal": "2020-05-18T03:10:10Z",
-        "status": "Overdue"
-      }
-    ]
-  },
-  "2": {
-    "data_per_page": 5,
-    "total_page": 2,
-    "first_page": 2,
-    "end_page": 2,
-    "total_data": 10,
-    "data": [
-      {
-        "id": 6,
-        "nominal": "1600",
-        "no_invoice": "belum ada",
-        "due_date": "25 mei 2020",
-        "tanggal": "2020-05-18T05:10:10Z",
-        "status": "Overdue"
-      },
-      {
-        "id": 7,
-        "nominal": "1200",
-        "no_invoice": "belum ada",
-        "due_date": "25 mei 2020",
-        "tanggal": "2020-05-18T04:10:10Z",
-        "status": "Paid"
-      },
-      {
-        "id": 8,
-        "nominal": "1090",
-        "no_invoice": "belum ada",
-        "due_date": "25 mei 2020",
-        "tanggal": "2020-05-18T03:10:10Z",
-        "status": "Overdue"
-      },
-      {
-        "id": 9,
-        "nominal": "1020",
-        "no_invoice": "belum ada",
-        "due_date": "25 mei 2020",
-        "tanggal": "2020-05-18T04:10:10Z",
-        "status": "Paid"
-      },
-      {
-        "id": 10,
-        "nominal": "1050",
-        "no_invoice": "belum ada",
-        "due_date": "25 mei 2020",
-        "tanggal": "2020-05-18T05:10:10Z",
-        "status": "Paid"
-      }
-    ]
-  }
+  "total_data": 7,
+  "Data": [
+    {
+      "tanggal": "20-02-2020",
+      "id_invoice": "BRIAPIPRC/KP0001/02-2020",
+      "nominal": "5000000",
+      "due_date": "20-02-2020",
+      "status": "PAID"
+    },
+    {
+      "tanggal": "20-02-2020",
+      "id_invoice": "BRIAPIPRC/KP0001/03-2020",
+      "nominal": "5000000",
+      "due_date": "20-02-2020",
+      "status": "PAID"
+    },
+    {
+      "tanggal": "20-03-2020",
+      "id_invoice": "BRIAPIPRC/KP0001/03-2020",
+      "nominal": "1000000",
+      "due_date": "21-03-2020",
+      "status": "overdue"
+    },
+    {
+      "tanggal": "21-04-2020",
+      "id_invoice": "BRIAPIPRC/KP0001/03-2020",
+      "nominal": "2000000",
+      "due_date": "22-04-2020",
+      "status": "PAID"
+    },
+    {
+      "tanggal": "22-05-2020",
+      "id_invoice": "BRIAPIPRC/KP0001/03-2020",
+      "nominal": "3000000",
+      "due_date": "24-05-2020",
+      "status": "overdue"
+    },
+    {
+      "tanggal": "20-06-2020",
+      "id_invoice": "BRIAPIPRC/KP0001/03-2020",
+      "nominal": "5000000",
+      "due_date": "21-06-2020",
+      "status": "PAID"
+    },
+    {
+      "tanggal": "24-06-2020",
+      "id_invoice": "BRIAPIPRC/KP0001/03-2020",
+      "nominal": "7000000",
+      "due_date": "21-06-2020",
+      "status": "PAID"
+    }
+  ]
 }
